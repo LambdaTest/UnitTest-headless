@@ -1,6 +1,6 @@
-# How to set browser specific options in UnitTest on [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=UnitTest-headless)
+# How to run browser in headless mode in Behave on [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=UnitTest-headless)
 
-If you want to set browser specific options for an automation test in UnitTest on Lambdatest, you can use the following steps. You can refer to sample test repo [here](https://github.com/LambdaTest/Python-UnitTest-Selenium).
+If you want to run a browser in headless mode for an automation test in UnitTest on Lambdatest, you can use the following steps. You can refer to sample test repo(https://github.com/LambdaTest/Python-UnitTest-Selenium).
 
 # Steps:
 
